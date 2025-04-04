@@ -1,5 +1,5 @@
 # Multilingual-chatbot-using-Llama2-Model
-This repository contains the implementation of a multilingual chatbot built by fine-tuning the pre-trained Llama 2 model on the OpenAssistant-Guanaco dataset. The chatbot supports interaction in 35 different languages, making it a versatile tool for global communication.
+This repository contains the implementation of a multilingual chatbot built by fine-tuning the pre-trained Llama 2 model on the OpenAssistant-Guanaco dataset. The chatbot supports interaction in 35 different languages, making it a versatile tool for global communication.Download the notebook if it shows error
 
 Features
 
